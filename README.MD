@@ -28,7 +28,7 @@ alt="🔴 LIVE CODE">
     <audio src="output/podcast.MP3" controls title="Podcast "></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Como Organizar sua Vida Financeira com Planilhas Inteligentes e IA
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Curso CAIXA - IA Generativa com Microsoft Copilot [DIO](https://dio.me)
