@@ -54,7 +54,7 @@ Ajudar usuários a tomar decisões financeiras estratégicas com base em dados.
 ## 📚 Materiais
 
 - [Template de Planilha Inteligente (Excel)](https://github.com/nathalia105/Dashboard_Financeiro/raw/eebfdc9f876d2b24fda9ead87b635257b22d872d/Dashboard%20Financeiro.xlsx)
-- Base de Dados (Excel)
+- [Base de Dados (Excel)](https://github.com/nathalia105/Dashboard_Financeiro/raw/refs/heads/main/base%20de%20dados.xlsx)
 
 
 ## 🛠️ Instruções de execução
