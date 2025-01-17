@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://dio.me/">
 <img 
-    src="imagem_gerada (6).png" 
+    src="imagem_gerada (8).png" 
     width="300"    
 alt="🔴 LIVE CODE">
 </a>
@@ -33,18 +33,23 @@ alt="🔴 LIVE CODE">
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Curso CAIXA - IA Generativa com Microsoft Copilot [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+ℹ️ Sobre o Projeto
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Este projeto tem como objetivo ensinar como utilizar planilhas inteligentes e ferramentas de Inteligência Artificial para melhorar a organização financeira pessoal e empresarial.
+
+🎯 Objetivo do Projeto
+
+Criar um dashboard e Desenvolver planilhas inteligentes que otimizam o controle de receitas, despesas e investimentos.
+
+Utilizar ferramentas de IA para análise e previsão de gastos.
+
+Ajudar usuários a tomar decisões financeiras estratégicas com base em dados.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-- [Gemini](https://gemini.google.com/app?hl=pt-BR)
-
+- [ChatGPT](https://chat.openai.com/) - Geração de insights financeiros e criação de fórmulas inteligentes para planilhas.
+- [Excel] Estruturação das planilhas inteligentes.
+- [Gemini](https://gemini.google.com/app?hl=pt-BR) Gemini: Suporte na geração de insights e otimização dos modelos de IA.
 
 ## ✨ Como foi feito ?
 
@@ -55,18 +60,25 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-17d64ef2d64580ad80effb391385d24f)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- Template de Planilha Inteligente (Excel)
+- Base de Dados (Excel)
 
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Siga as etapas abaixo para criar um sistema de organização financeira automatizado com IA:
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+1️⃣ Criando sua Planilha Inteligente
+
+Estruture categorias para renda, despesas fixas, variáveis, investimentos e metas financeiras.
+
+Configure dashboards para visualização automática de insights.
+
+2️⃣ Aplicando IA na Análise Financeira
+
+Use o ChatGPT para gerar relatórios e previsões financeiras.
+
+Experimente a análise preditiva com Gemini para estimar tendências futuras de gastos e investimentos.
 
 ## 👩🏿‍💻 Expert
 
@@ -75,7 +87,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://raw.githubusercontent.com/nathalia105/dio/ad32c6f124e87cac91065c12f30901810e53b49c/imagem_gerada2.png"
+      src="imagem_gerada (8).png"
     />
     <p>&nbsp&nbsp&nbspNathalia Barros<br>
     &nbsp&nbsp&nbsp
