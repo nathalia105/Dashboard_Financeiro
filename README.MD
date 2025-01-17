@@ -92,7 +92,7 @@ Experimente a análise preditiva com Gemini para estimar tendências futuras de 
     <p>&nbsp&nbsp&nbspNathalia Barros<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/nathalia105/podcast">
+        href="README.MD">
         GitHub
     </a>
     &nbsp;|&nbsp;
@@ -102,4 +102,4 @@ Experimente a análise preditiva com Gemini para estimar tendências futuras de 
 
 ---
 
-⌨️ com 💜 por [NATHALIA BARROS](https://github.com/nathalia105/podcast)
+⌨️ com 💜 por [NATHALIA BARROS](README.MD)
