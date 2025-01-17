@@ -35,7 +35,7 @@ alt="🔴 LIVE CODE">
 
 ℹ️ Sobre o Projeto
 
-Este projeto tem como objetivo ensinar como utilizar planilhas inteligentes e ferramentas de Inteligência Artificial para melhorar a organização financeira pessoal e empresarial.
+Este projeto tem como objetivo ensinar como utilizar planilhas inteligentes e ferramentas de Inteligência Artificial para melhorar a organização financeira pessoal.
 
 🎯 Objetivo do Projeto
 
