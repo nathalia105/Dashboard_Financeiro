@@ -87,7 +87,7 @@ Experimente a análise preditiva com Gemini para estimar tendências futuras de 
       align=left 
       margin=10 
       width=80 
-      src="assets/imagem_gerada2.png"
+      src="imagem_gerada (6).png"
     />
     <p>&nbsp&nbsp&nbspNathalia Barros<br>
     &nbsp&nbsp&nbsp
