@@ -51,13 +51,6 @@ Ajudar usuários a tomar decisões financeiras estratégicas com base em dados.
 - [Excel] Estruturação das planilhas inteligentes.
 - [Gemini](https://gemini.google.com/app?hl=pt-BR) Gemini: Suporte na geração de insights e otimização dos modelos de IA.
 
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney, Gemini Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
 ## 📚 Materiais
 
 - Template de Planilha Inteligente (Excel)
