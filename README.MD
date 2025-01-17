@@ -87,7 +87,7 @@ Experimente a análise preditiva com Gemini para estimar tendências futuras de 
       align=left 
       margin=10 
       width=80 
-      src="imagem_gerada (6).png"
+      src="https://raw.githubusercontent.com/nathalia105/Dashboard_Financeiro/refs/heads/main/imagem_gerada%20(6).png"
     />
     <p>&nbsp&nbsp&nbspNathalia Barros<br>
     &nbsp&nbsp&nbsp
